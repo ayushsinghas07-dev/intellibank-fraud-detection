@@ -62,9 +62,6 @@ The project demonstrates practical experience with:
 
 ![Audit Trail](screenshots/12-audit-log.png)
 
-## Reports
-
-![Reports](screenshots/13-reports.png)
 
 ---
 
